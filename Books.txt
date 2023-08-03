@@ -1,0 +1,90 @@
+{
+  "titleBook": "Libro 1",
+  "raitingBook": 4.5,
+  "genres_of_books": "Ficción",
+  "quantity": 10
+}
+{
+  "titleBook": "Libro 2",
+  "raitingBook": 4.2,
+  "genres_of_books": "Ciencia ficción",
+  "quantity": 15
+}
+{
+  "titleBook": "Libro 3",
+  "raitingBook": 3.9,
+  "genres_of_books": "Misterio",
+  "quantity": 20
+}
+{
+  "titleBook": "Libro 4",
+  "raitingBook": 4.7,
+  "genres_of_books": "Aventura",
+  "quantity": 25
+}
+{
+  "titleBook": "Libro 5",
+  "raitingBook": 3.8,
+  "genres_of_books": "No ficción",
+  "quantity": 30
+}
+{
+  "titleBook": "Libro 6",
+  "raitingBook": 4.1,
+  "genres_of_books": "Romance",
+  "quantity": 12
+}
+{
+  "titleBook": "Libro 7",
+  "raitingBook": 3.5,
+  "genres_of_books": "Ficción",
+  "quantity": 8
+}
+{
+  "titleBook": "Libro 8",
+  "raitingBook": 4.3,
+  "genres_of_books": "Aventura",
+  "quantity": 14
+}
+{
+  "titleBook": "Libro 9",
+  "raitingBook": 3.6,
+  "genres_of_books": "Misterio",
+  "quantity": 22
+}
+{
+  "titleBook": "Libro 10",
+  "raitingBook": 4.0,
+  "genres_of_books": "Ciencia ficción",
+  "quantity": 18
+}
+{
+  "titleBook": "Libro 11",
+  "raitingBook": 4.8,
+  "genres_of_books": "No ficción",
+  "quantity": 7
+}
+{
+  "titleBook": "Libro 12",
+  "raitingBook": 3.7,
+  "genres_of_books": "Romance",
+  "quantity": 16
+}
+{
+  "titleBook": "Libro 13",
+  "raitingBook": 4.2,
+  "genres_of_books": "Ficción",
+  "quantity": 21
+}
+{
+  "titleBook": "Libro 14",
+  "raitingBook": 4.4,
+  "genres_of_books": "Aventura",
+  "quantity": 11
+}
+{
+  "titleBook": "Libro 15",
+  "raitingBook": 3.9,
+  "genres_of_books": "Misterio",
+  "quantity": 9
+}
